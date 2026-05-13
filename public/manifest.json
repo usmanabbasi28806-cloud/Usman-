@@ -1,0 +1,21 @@
+{
+  "short_name": "ScribalTech",
+  "name": "ScribalTech AI Avatar Generator",
+  "icons": [
+    {
+      "src": "https://i.pravatar.cc/192?u=heygen-logo",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://i.pravatar.cc/512?u=heygen-logo",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "theme_color": "#2563eb",
+  "description": "AI Avatar video generation with voice cloning and 350+ voices."
+}
